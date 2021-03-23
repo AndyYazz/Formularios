@@ -1,0 +1,25 @@
+
+
+.titulo {
+    text-align: center;
+    color: grey;
+}
+
+.subtitulo{
+    color: grey;
+    font-size: 15px;
+    text-align: center;
+}
+
+.datos{
+    font-size: 15px;
+}
+
+.obligatorio{
+    color:red;
+    font-size: 12px;
+}
+
+.row{
+    padding: 20px;
+}

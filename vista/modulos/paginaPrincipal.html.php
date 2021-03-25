@@ -16,7 +16,6 @@
         <div class="col-6 mb-5">
             <a href="http://localhost:8888/Formularios/expedientes" class="btn btn-block btn-dark">
 
-            
             Expedientes</a>
         </div>
 
